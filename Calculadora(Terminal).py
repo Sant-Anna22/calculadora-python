@@ -69,7 +69,3 @@ while True:
             os.system("cls" if os.name == "nt" else "clear")
             print ('Você saiu, até mais!')
             break
-
-    
-
-    
